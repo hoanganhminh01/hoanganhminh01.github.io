@@ -22,7 +22,7 @@ repository               : "hoanganhminh01/hoanganhminh01.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Minh Hoang"
   bio              : "PhD Student, Lecturer in Computer Science and Engineering"
   location         : "Ho Chi Minh City"
