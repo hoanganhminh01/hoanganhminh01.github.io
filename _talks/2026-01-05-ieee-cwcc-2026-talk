@@ -1,0 +1,11 @@
+---
+title: "EfficientSkinTrans: Enhancing Dermatological Classification and Analysis Through a Hybrid ViT Network"
+collection: talks
+type: "Conference Talk"
+permalink: /talks/ieee-cwcc-2026-talk/
+venue: "2026 IEEE 16th Annual Computing and Communication Workshop and Conference (IEEE CWCC 2026)"
+location: "University of Nevada, Las Vegas, USA"
+date: 2026-01-05
+---
+
+In this talk, I introduced EfficientSkinTrans, a lightweight hybrid model designed to improve skin lesion diagnosis by combining an EfficientNet-style convolutional encoder with a compact transformer module to capture both fine-grained textures and long-range contextual cues. Evaluated on ISIC-2019, the model outperformed conventional transformer-based and hybrid approaches, while also demonstrating strong zero-shot generalization to unseen diseases such as Monkeypox from the MSLD v2.0 dataset. To support clinical trust, Grad-CAM++ visualizations confirmed that the model consistently focused on medically relevant lesion regions. Overall, EfficientSkinTrans provides a reliable, interpretable, and generalizable framework for AI-assisted dermatological diagnosis.
