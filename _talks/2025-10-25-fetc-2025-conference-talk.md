@@ -3,8 +3,8 @@ title: "DenseTransXR: A Hybrid Transformer-Based Approach for Chest X-ray Abnorm
 collection: talks
 type: "Conference Presentation"
 permalink: /talks/fetc-2025-conference-talk/
-venue: "FPT University Can Tho"
-location: "Can Tho, Vietnam"
+venue: "2025 1st FPT International Conference on Emerging Trends in Computing (FETC 2025)"
+location: "FPT University, Can Tho, Vietnam"
 date: 2025-10-25
 ---
 
