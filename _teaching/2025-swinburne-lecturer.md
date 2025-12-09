@@ -1,7 +1,6 @@
 ---
 title: "Lecturer – Swinburne University of Technology - Ho Chi Minh City"
 collection: teaching
-type: "Teaching"
 permalink: /teaching/swinburne/
 date: 2024-09-05
 institution: "Swinburne University of Technology - Ho Chi Minh City"
