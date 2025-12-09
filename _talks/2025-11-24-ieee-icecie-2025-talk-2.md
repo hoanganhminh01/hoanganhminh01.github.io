@@ -1,7 +1,7 @@
 ---
 title: "AI-based Energy Forecasting for Net Zero Smart Cities"
 collection: talks
-type: "Conference Presentation"
+type: "Conference Talk"
 permalink: /talks/ieee-icecie-2025-talk-2/
 venue: "2025 7th International Conference on Electrical, Control and Instrumentation engineering (ICECIE-2025)"
 location: "Pattaya, Thailand"
