@@ -7,6 +7,7 @@ venue: "IEEE CWCC 2026"
 authors: "Minh Anh Hoang, Hieu Le Minh Phan, Ngoc Nam Vo, Khuong Nguyen-Vinh"
 paperurl: ""
 citation: "Hoang, M. A., Phan, H. L. M., Vo, N. N., & Nguyen-Vinh, K. (2026). EfficientSkinTrans: Enhancing Dermatological Analysis Through a Hybrid ViT Network. IEEE CWCC 2026."
+category: conferences
 ---
 
 # Abstract
