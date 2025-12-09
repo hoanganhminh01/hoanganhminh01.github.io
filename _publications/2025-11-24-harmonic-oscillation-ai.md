@@ -7,6 +7,7 @@ venue: "IEEE ICECIE 2025"
 authors: "Khuong Nguyen-Vinh, Minh Hoang, Radomir Gono"
 paperurl: ""
 citation: "Nguyen-Vinh, K., Hoang, M., & Gono, R. (2025). AI-Driven Methods for Eliminating Harmonic Oscillations in Inverter-Connected Systems. IEEE ICECIE 2025."
+category: conferences
 ---
 
 # Abstract
