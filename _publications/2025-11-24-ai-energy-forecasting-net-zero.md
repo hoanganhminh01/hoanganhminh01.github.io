@@ -7,6 +7,7 @@ venue: "IEEE ICECIE 2025"
 authors: "Minh Hoang, Khuong Nguyen-Vinh, Minh-Tai Vo"
 paperurl: ""
 citation: "Hoang, M., Nguyen-Vinh, K., & Vo, M.-T. (2025). AI-Based Energy Forecasting for Net Zero Smart Cities. IEEE ICECIE 2025."
+category: conferences
 ---
 
 # Abstract
