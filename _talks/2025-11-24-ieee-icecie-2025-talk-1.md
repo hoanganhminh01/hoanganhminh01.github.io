@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Adaptive Detection for Eliminating Harmonic Oscillations in Inverter-Connected Systems"
 collection: talks
-type: "Conference Presentation"
+type: "Conference Talk"
 permalink: /talks/ieee-icecie-2025-talk-1/
 venue: "2025 7th International Conference on Electrical, Control and Instrumentation engineering (ICECIE-2025)"
 location: "Pattaya, Thailand"
