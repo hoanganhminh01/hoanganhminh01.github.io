@@ -1,11 +1,11 @@
 ----
-title: "Guest Lecture: Case Study: Utilizing Deep Learning Models for Fault Detection and Diagnosis of Photovoltaic Modules to Improve Solar Energy Constructions’ O&M Activities Quality (EEET2623 - RMIT University 2024 and 2025)"
+title: "Guest Lecture: Case Study: Utilizing Deep Learning Models for Fault Detection and Diagnosis of Photovoltaic Modules to Improve Solar Energy Constructions’ O&M Activities Quality (EEET2623 - RMIT University 2025)"
 collection: talks
 type: "Guest Lecture"
 permalink: /talks/rmit-guest-lecture-2025/
 venue: "RMIT University Vietnam"
 location: "Ho Chi Minh City, Vietnam"
-date: 2024-09-16 and 2025-09-09
+date: 2025-09-09
 ----
 
 This lecture presented a case study on applying deep learning for fault detection and diagnosis in photovoltaic (PV) modules using electroluminescence (EL) images. Students were introduced to the ELPV dataset, key exploratory data analysis steps, and the challenges of distinguishing functional, marginal, and defective solar cells. The session covered preprocessing, statistical comparison of image features, contrast visualization, and dimensionality reduction using PCA and t-SNE.
