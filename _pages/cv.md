@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Electrical and Electronic Engineering, RMIT University, July 2025 – Present
+* M.S. in Computer Science (Data Science), University of Washington, 2022–2024
+* B.S. in Computer Science (Data Science), University of Washington, 2020–2022
+* A.S. in Computer Science, Seattle Central College, 2019–2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Visiting Lecturer**, Asia University — Ho Chi Minh City, Vietnam *(Sept 2025 – Present)*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Visiting Lecturer**, FPT University — Ho Chi Minh City, Vietnam *(May 2025 – Present)*
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Lecturer**, Swinburne University of Technology — Ho Chi Minh City, Vietnam *(Aug 2024 – Present)*
+
+* **Machine Learning Research Intern**, Lawrence Livermore National Laboratory — Livermore, CA *(Sept 2023 – Mar 2024)*
+  * Improved vehicle classification training pipeline by 50% and deployed BLIP2 & InstructBLIP for nuclear threat detection enhancements.
+
+* **Database Research Intern**, Sandia National Laboratories — Livermore, CA *(Jun 2023 – Aug 2023)*
+  * Built a database of molecular saddle points for ML tasks including reaction prediction and pathway exploration.
+
+* **Graduate Teaching Assistant**, University of Washington — Seattle, WA *(Sept 2022 – Jun 2024)*
+  * Courses: Machine Learning (CSE 446/546), Computer Vision (CSE 455), Statistical Reasoning (STAT 220).
+
+* **Deep Learning Research Assistant**, Intel Vietnam / RMIT University — Ho Chi Minh City, Vietnam *(Jul 2022 – Nov 2022)*
+  * Achieved 85.02% accuracy and 90.24% precision in photovoltaic panel fault detection using customized CNNs.
+
+* **Research Assistant**, InfoSeeking Lab — Seattle, WA *(Feb 2022 – Dec 2022)*
+  * Co-authored survey analyzing 350+ papers on counterfactual explanations & algorithmic recourse.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming:** Python, Java, JavaScript, C, C#, C++, SQL, SQLite
+* **Frameworks & Tools:** PyTorch, TensorFlow, SciPy, Scikit-learn, Pandas, NumPy, PySpark, Matplotlib, Dash, OpenCV, Hadoop, Kafka, Tableau, d3.js, p5.js, KNIME
 
 Publications
 ======
@@ -58,7 +62,4 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
