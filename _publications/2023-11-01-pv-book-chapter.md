@@ -7,6 +7,7 @@ venue: "Information Systems Research in Vietnam, Springer"
 authors: "Khuong Nguyen-Vinh, Quang-Nguyen Vo-Huynh, Khoa Nguyen-Minh, Minh Hoang"
 paperurl: "https://link.springer.com/chapter/10.1007/978-981-99-4792-8_5"
 citation: "Nguyen-Vinh, K., Vo-Huynh, Q.-N., Nguyen-Minh, K., & Hoang, M. (2023). Case Study: Utilising Deep Learning Models for Fault Detection and Diagnosis of Photovoltaic Modules. Springer, Information Systems Research in Vietnam."
+category: books
 ---
 
 # Abstract
