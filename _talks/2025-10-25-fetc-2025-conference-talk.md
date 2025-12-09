@@ -1,7 +1,7 @@
 ---
 title: "DenseTransXR: A Hybrid Transformer-Based Approach for Chest X-ray Abnormality and Emerging Disease Detection"
 collection: talks
-type: "Conference Presentation"
+type: "Conference Talk"
 permalink: /talks/fetc-2025-conference-talk/
 venue: "2025 1st FPT International Conference on Emerging Trends in Computing (FETC 2025)"
 location: "FPT University, Can Tho, Vietnam"
