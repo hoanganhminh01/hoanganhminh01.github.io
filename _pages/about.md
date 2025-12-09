@@ -1,4 +1,4 @@
-<img width="1565" height="56" alt="image" src="https://github.com/user-attachments/assets/ef998ed1-a654-4179-9ce4-e373699eae5d" />---
+---
 permalink: /
 title: "Minh Hoang"
 author_profile: true
