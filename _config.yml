@@ -21,14 +21,12 @@ repository               : "hoanganhminh01/hoanganhminh01.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "profile.jpg"
   name             : "Minh Hoang"
-  bio              : "PhD Student in Electrical Engineering, Lecturer in Computer Science and Engineering"
-  location         : "Ho Chi Minh City"
-  employer         : "RMIT University, Swinburne University"
-  uri              : # URL
-  email            : "manh@swin.edu.au" 
+  bio              : "PhD Student in Electrical & Electronic Engineering, Lecturer in Computer Science & Machine Learning"
+  location         : "Ho Chi Minh City, Vietnam"
+  employer         : "RMIT University | Swinburne University of Technology | Asia University | FPT University"
+  email            : "hoanganhminh01@gmail.com | minhha10@fe.edu.vn | manh@swin.edu.au"
 
   # Academic websites
   academia         : # URL
