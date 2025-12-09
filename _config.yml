@@ -25,8 +25,8 @@ author:
   name             : "Minh Hoang"
   bio              : "PhD Student in Electrical & Electronic Engineering, Lecturer in Computer Science & Machine Learning"
   location         : "Ho Chi Minh City, Vietnam"
-  employer         : "RMIT University | Swinburne University of Technology | Asia University | FPT University"
-  email            : "hoanganhminh01@gmail.com | minhha10@fe.edu.vn | manh@swin.edu.au"
+  employer         : "RMIT | Swinburne | Asia | FPT"
+  email            : "minhha10@fe.edu.vn"
 
   # Academic websites
   academia         : # URL
@@ -44,7 +44,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "hoanganhminh01"
-  kaggle           : # Username  
+  kaggle           : "anhminh257"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -77,7 +77,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Book Chapters'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
