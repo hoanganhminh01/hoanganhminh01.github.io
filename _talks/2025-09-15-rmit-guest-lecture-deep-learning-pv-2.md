@@ -5,7 +5,7 @@ type: "Guest Lecture"
 permalink: /talks/rmit-guest-lecture-2025/
 venue: "RMIT University Vietnam"
 location: "Ho Chi Minh City, Vietnam"
-date: 2024-09-16 and 2025-09-09
+date: 2025-09-09
 ---
 
 I delivered guest lectures at RMIT University Vietnam for Undergraduate Courses EEET2602 and EEET2623 on Deep Learning approaches for photovoltaic (PV) materials and semiconductor systems, covering model architectures, PV fault detection, and real-world applications in sustainable energy engineering.
