@@ -1,7 +1,7 @@
 ---
 title: "Forecasting Urban Energy for Net-Zero Smart Cities: A Hybrid Attention-based Approach"
 collection: talks
-type: "Conference Presentation"
+type: "Conference Talk"
 permalink: /talks/fetc-2025-conference-talk2/
 venue: "2025 1st FPT International Conference on Emerging Trends in Computing (FETC 2025)"
 location: "FPT University, Can Tho, Vietnam"
