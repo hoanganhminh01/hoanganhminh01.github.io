@@ -8,4 +8,6 @@ location: "University of Nevada, Las Vegas, USA"
 date: 2026-01-05
 ---
 
+BEST PRESENTATION AWARD for AI AND WIRELESS COMMUNICATION at IEEE CWCC 2026.
+
 In this talk, I introduced EfficientSkinTrans, a lightweight hybrid model designed to improve skin lesion diagnosis by combining an EfficientNet-style convolutional encoder with a compact transformer module to capture both fine-grained textures and long-range contextual cues. Evaluated on ISIC-2019, the model outperformed conventional transformer-based and hybrid approaches, while also demonstrating strong zero-shot generalization to unseen diseases such as Monkeypox from the MSLD v2.0 dataset. To support clinical trust, Grad-CAM++ visualizations confirmed that the model consistently focused on medically relevant lesion regions. Overall, EfficientSkinTrans provides a reliable, interpretable, and generalizable framework for AI-assisted dermatological diagnosis.
