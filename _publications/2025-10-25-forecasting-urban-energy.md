@@ -3,7 +3,7 @@ title: "Forecasting Urban Energy for Net-Zero Smart Cities: A Hybrid Attention-b
 collection: publications
 permalink: /publications/urban-energy-attention/
 date: 2025-10-25
-venue: "FPT International Conference on Emerging Trends in Computing (FETC 2025)"
+venue: "1st FPT International Conference on Emerging Trends in Computing"
 authors: "Minh Anh Hoang, Thuan Do Thanh Hoang, Tuan Phu Phan, Khuong Nguyen-Vinh"
 paperurl: ""
 citation: "Hoang, M. A., Hoang, T. D. T., Phan, T. P., & Nguyen-Vinh, K. (2025). Forecasting Urban Energy for Net-Zero Smart Cities. FETC 2025."
