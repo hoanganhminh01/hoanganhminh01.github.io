@@ -3,7 +3,7 @@ title: "EfficientSkinTrans: Enhancing Dermatological Analysis Through a Hybrid V
 collection: publications
 permalink: /publications/efficient-skin-trans/
 date: 2026-01-05
-venue: "16th IEEE Annual Computing and Communication Workshop and Conference"
+venue: "16th IEEE Annual Computing and Communication Workshop and Conference (CCWC)"
 authors: "Minh Anh Hoang, Hieu Le Minh Phan, Ngoc Nam Vo, Khuong Nguyen-Vinh"
 paperurl: ""
 citation: "Hoang, M. A., Phan, H. L. M., Vo, N. N., & Nguyen-Vinh, K. (2026). EfficientSkinTrans: Enhancing Dermatological Analysis Through a Hybrid ViT Network. IEEE CWCC 2026."
