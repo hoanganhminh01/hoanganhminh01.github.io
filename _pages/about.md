@@ -11,10 +11,7 @@ redirect_from:
 
 My name is Minh Hoang. I am currently a Ph.D. student in Electrical & Electronic Engineering at RMIT University and a Lecturer in Computer Science & Machine Learning at Swinburne University of Technology (Vietnam). I also teach at Asia University and FPT University as an Adjunct Lecturer.
 
-My research interests include Computer Vision, Anomaly Detection, Medical Imaging, Explainable AI and AI Application in Renewable Energy:
-- Hybrid Deep Learning models for urban energy forecasting and radiographic imaging,  
-- AI-driven fault detection in PV manufacturing,  
-- Interpretable ML, including counterfactual explanations and algorithmic recourse.
+My research interests include Computer Vision, Explainable AI and AI Application in Renewable Energy.
 
 I particularly enjoy working at the intersection of AI, sustainability, and large-scale engineering systems. Over the years, I’ve gained hands-on experience deploying ML models for real-world problems through roles at Lawrence Livermore National Laboratory, Sandia National Laboratories, Intel Vietnam, and the InfoSeeking Lab at the University of Washington.
 
