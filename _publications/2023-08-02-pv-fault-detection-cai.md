@@ -3,7 +3,7 @@ title: "Deep Learning Models for Fault Detection and Diagnosis in Photovoltaic M
 collection: publications
 permalink: /publications/pv-fault-detection-cai/
 date: 2023-08-02
-venue: "IEEE Conference on Artificial Intelligence"
+venue: "IEEE Conference on Artificial Intelligence (CAI)"
 authors: "Khuong Nguyen-Vinh, Quang-Nguyen Vo-Huynh, Khoa Nguyen-Minh, Minh Hoang"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10195129"
 citation: "Nguyen-Vinh, K., Vo-Huynh, Q.-N., Nguyen-Minh, K., & Hoang, M. (2023). Deep Learning Models for Fault Detection and Diagnosis in Photovoltaic Modules Manufacture. IEEE CAI 2023."
