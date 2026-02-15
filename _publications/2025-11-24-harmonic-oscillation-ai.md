@@ -5,7 +5,7 @@ permalink: /publications/ai-harmonic-oscillations/
 date: 2025-11-24
 venue: "7th IEEE International Conference on Electrical, Control and Instrumentation Engineering"
 authors: "Khuong Nguyen-Vinh, Minh Hoang, Radomir Gono"
-paperurl: ""
+paperurl: "https://ieeexplore.ieee.org/document/11363838"
 citation: "Nguyen-Vinh, K., Hoang, M., & Gono, R. (2025). AI-Driven Methods for Eliminating Harmonic Oscillations in Inverter-Connected Systems. IEEE ICECIE 2025."
 category: conferences
 ---
