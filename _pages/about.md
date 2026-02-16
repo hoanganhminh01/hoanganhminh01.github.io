@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## About Me 
-
-My name is Minh Hoang. I am currently a Ph.D. student in Electrical & Electronic Engineering at RMIT University and a Lecturer in Computer Science & Machine Learning at Swinburne University of Technology (Vietnam). I also teach at Asia University and FPT University as an Adjunct Lecturer.
+My name is Minh Hoang. I am currently a Ph.D. student in Electrical & Electronic Engineering at RMIT University, advised by Dr. Khuong Nguyen-Vinh and a Lecturer in Computer Science & Machine Learning at Swinburne University of Technology (Vietnam). I also teach at Asia University and FPT University as a Visiting Lecturer.
 
 My research interests include Computer Vision, Explainable AI and AI Application in Renewable Energy.
 
