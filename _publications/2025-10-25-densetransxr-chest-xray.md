@@ -5,7 +5,7 @@ permalink: /publications/densetransxr-chest-xray/
 date: 2025-10-25
 venue: "1st FPT International Conference on Emerging Trends in Computing (FETC)"
 authors: "Minh Anh Hoang, Hieu Le Minh Phan"
-paperurl: ""
+paperurl: "https://science.fpt.edu.vn/FETC/AcceptedPaper/PaperDetail?id=3eb15919-122a-427e-786d-08ddf00f9b95"
 citation: "Hoang, M. A., & Phan, H. L. M. (2025). DenseTransXR: A Hybrid Transformer-Based Approach for Chest X-ray Abnormality and Emerging Disease Detection. FETC 2025."
 category: conferences
 ---
