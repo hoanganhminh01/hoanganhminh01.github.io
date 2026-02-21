@@ -1,12 +1,12 @@
 ---
-title: "Case Study: Utilising Deep Learning Models for Fault Detection and Diagnosis of Photovoltaic Modules"
+title: "Case Study: Utilising of Deep Learning Models for Fault Detection and Diagnosis of Photovoltaic Modules to Improve Solar Energy Constructions’ O&M Activities Quality"
 collection: publications
 permalink: /publications/pv-fault-diagnosis-chapter/
 date: 2023-11-01
 venue: "Information Systems Research in Vietnam, Volume 2, Springer"
 authors: "Khuong Nguyen-Vinh, Quang-Nguyen Vo-Huynh, Khoa Nguyen-Minh, Minh Hoang"
 paperurl: "https://link.springer.com/chapter/10.1007/978-981-99-4792-8_5"
-citation: "Nguyen-Vinh, K., Vo-Huynh, Q.-N., Nguyen-Minh, K., & Hoang, M. (2023). Case Study: Utilising Deep Learning Models for Fault Detection and Diagnosis of Photovoltaic Modules. Springer, Information Systems Research in Vietnam, Volume 2."
+citation: "K. Nguyen-Vinh, Q. N. Vo-Huynh, K. Nguyen-Minh, M. Hoang, and S. Rangaraju, Case Study: Utilising of Deep Learning Models for Fault Detection and Diagnosis of Photovoltaic Modules to Improve Solar Energy Constructions’ O&M Activities Quality, in Information Systems Research in Vietnam, Volume 2, N. H. Thuan, D. Dang-Pham, H. S. Le, and T. Q. Phan, Eds. Singapore: Springer, 2024, doi: 10.1007/978-981-99-4792-8_5."
 category: books
 ---
 
