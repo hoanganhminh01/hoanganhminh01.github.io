@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "Past Experiences"
-    url: /cv/
+    url: /experiences/
     
   # - title: "CV"
   #   url: /cv-json/
