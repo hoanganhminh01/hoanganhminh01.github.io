@@ -6,7 +6,7 @@ date: 2025-11-24
 venue: "7th IEEE International Conference on Electrical, Control and Instrumentation Engineering (ICECIE)"
 authors: "Minh Hoang, Khuong Nguyen-Vinh, Minh-Tai Vo"
 paperurl: "https://ieeexplore.ieee.org/document/11363824"
-citation: "Hoang, M., Nguyen-Vinh, K., & Vo, M.-T. (2025). AI-Based Energy Forecasting for Net Zero Smart Cities. IEEE ICECIE 2025."
+citation: "M. Hoang, K. Nguyen-Vinh and M. -T. Vo, AI-based Energy Forecasting for Net Zero Smart Cities, 2025 7th International Conference on Electrical, Control and Instrumentation Engineering (ICECIE), Pattaya City, Thailand, 2025, pp. 282-289, doi: 10.1109/ICECIE66637.2025.11363824."
 category: conferences
 ---
 
