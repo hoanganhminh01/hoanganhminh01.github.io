@@ -6,7 +6,7 @@ date: 2024-10-03
 venue: "ACM Computing Surveys"
 authors: "Sahil Verma, Varich Boonsanong, Minh Hoang, Keegan E. Hines, John P. Dickerson, Chirag Shah"
 paperurl: "https://dl.acm.org/doi/10.1145/3677119"
-citation: "Verma, S., Boonsanong, V., Hoang, M., Hines, K. E., Dickerson, J. P., & Shah, C. (2024). Counterfactual Explanations and Algorithmic Recourses for Machine Learning: A Review. ACM Computing Surveys."
+citation: "S. Verma, V. Boonsanong, M. Hoang, K. Hines, J. Dickerson, and C. Shah, Counterfactual Explanations and Algorithmic Recourses for Machine Learning: A Review, ACM Computing Surveys, vol. 56, no. 12, Art. no. 312, pp. 1–42, Dec. 2024, doi: 10.1145/3677119."
 category: manuscripts
 ---
 
