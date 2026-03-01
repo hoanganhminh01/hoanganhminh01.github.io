@@ -6,7 +6,7 @@ date: 2025-10-25
 venue: "1st FPT International Conference on Emerging Trends in Computing (FETC)"
 authors: "Minh Anh Hoang, Thuan Do Thanh Hoang, Tuan Phu Phan, Khuong Nguyen-Vinh"
 paperurl: "https://science.fpt.edu.vn/FETC/Proceedings"
-citation: "M. A. Hoang, T. D. T. Hoang, T. P. Phan, and K. Nguyen-Vinh, Forecasting Urban Energy for Net-Zero Smart Cities: A Hybrid Attention-based Approach, in Proceedings of the FPT International Conference on Emerging Trends in Computing 2025 (FETC 2025): AI Solution for Developing Countries. Hanoi, Vietnam: Bach Khoa Publishing House, 2025, pp. 365–379, ISBN: 978-632-609-823-5."
+citation: "M. A. Hoang, T. D. T. Hoang, T. P. Phan, and K. Nguyen-Vinh, Forecasting Urban Energy for Net-Zero Smart Cities: A Hybrid Attention-based Approach, in Proceedings of the FPT International Conference on Emerging Trends in Computing 2025 (FETC 2025): AI Solution for Developing Countries. Cantho, Vietnam: Bach Khoa Publishing House, 2025, pp. 365–379, ISBN: 978-632-609-823-5."
 category: conferences
 ---
 
