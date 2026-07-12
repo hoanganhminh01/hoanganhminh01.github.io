@@ -1,5 +1,4 @@
----
-title: "AP-ProtoSAM: Enhancing ProtoSAM with Mask-Aware Prototypes and Adaptive Prompting for One-Shot Segmentation"
+---title: "AP-ProtoSAM: Enhancing ProtoSAM with Mask-Aware Prototypes and Adaptive Prompting for One-Shot Segmentation"
 collection: publications
 permalink: /publications/approtosam/
 date: 2026-06-25
