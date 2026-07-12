@@ -6,7 +6,7 @@ date: 2026-06-25
 venue: "23rd International Joint Conference on Computer Science and Software Engineering (JCSSE)"
 authors: "Khang Vinh Nguyen, Thao Thanh Bui, Minh Anh Hoang, Khuong Nguyen-Vinh"
 paperurl: "https://ieeexplore.ieee.org/document/11597071"
-citation: "K. V. Nguyen, T. T. Bui, M. A. Hoang and K. Nguyen-Vinh, "AP-ProtoSAM: Enhancing ProtoSAM with Mask-Aware Prototypes and Adaptive Prompting for One-Shot Segmentation," 2026 23rd International Joint Conference on Computer Science and Software Engineering (JCSSE), Bangkok, Thailand, 2026, pp. 219-224, doi: 10.1109/JCSSE68839.2026.11597071."
+citation: "K. V. Nguyen, T. T. Bui, M. A. Hoang and K. Nguyen-Vinh, AP-ProtoSAM: Enhancing ProtoSAM with Mask-Aware Prototypes and Adaptive Prompting for One-Shot Segmentation, 2026 23rd International Joint Conference on Computer Science and Software Engineering (JCSSE), Bangkok, Thailand, 2026, pp. 219-224, doi: 10.1109/JCSSE68839.2026.11597071."
 category: conferences
 ---
 
