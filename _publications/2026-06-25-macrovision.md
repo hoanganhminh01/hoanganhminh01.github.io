@@ -8,7 +8,6 @@ authors: "Vinh Khai Han, Ngan Bui Thanh Pham, Minh Anh Hoang"
 paperurl: "https://ieeexplore.ieee.org/document/11596987"
 citation: "V. K. Han, N. B. T. Pham and M. A. Hoang, MacroVision: A Two-Stage Localization and Fine-Grained Classification Pipeline for High-Cardinality Food Ingredient Recognition, 2026 23rd International Joint Conference on Computer Science and Software Engineering (JCSSE), Bangkok, Thailand, 2026, pp. 115-120, doi: 10.1109/JCSSE68839.2026.11596987."
 doi: "10.1109/JCSSE68839.2026.11596987"
-isbn: ""
 category: conferences
 ---
 
