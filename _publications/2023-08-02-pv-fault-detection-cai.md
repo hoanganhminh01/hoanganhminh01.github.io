@@ -8,7 +8,6 @@ authors: "Khuong Nguyen-Vinh, Quang-Nguyen Vo-Huynh, Khoa Nguyen-Minh, Minh Hoan
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10195129"
 citation: "K. Nguyen-Vinh, Q. -N. Vo-Huynh, M. Hoang and K. Nguyen-Minh, Deep Learning Models for Fault Detection and Diagnosis in Photovoltaic Modules Manufacture, 2023 IEEE Conference on Artificial Intelligence (CAI), Santa Clara, CA, USA, 2023, pp. 201-202, doi: 10.1109/CAI54212.2023.00095."
 doi: "10.1109/CAI54212.2023.00095"
-isbn: ""
 category: conferences
 ---
 
