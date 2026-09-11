@@ -7,6 +7,8 @@ venue: "16th IEEE Annual Computing and Communication Workshop and Conference (CC
 authors: "Minh Anh Hoang, Hieu Le Minh Phan, Nam Ngoc Vo, Khuong Nguyen-Vinh"
 paperurl: "https://ieeexplore.ieee.org/document/11393864"
 citation: "M. A. Hoang, H. L. M. Phan, N. N. Vo and K. Nguyen-Vinh, EfficientSkinTrans: Enhancing Dermatological Analysis Through a Hybrid ViT Network, 2026 IEEE 16th Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV, USA, 2026, pp. 0676-0682, doi: 10.1109/CCWC67433.2026.11393864."
+doi: "10.1109/CCWC67433.2026.11393864"
+isbn: ""
 category: conferences
 ---
 
