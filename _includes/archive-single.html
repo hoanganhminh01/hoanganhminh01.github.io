@@ -15,7 +15,6 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-```
 {% if include.type == "grid" and teaser %}
   <div class="archive__item-teaser">
     <img src=
@@ -71,7 +70,6 @@
 
   {% if post.authors %}
     <p class="archive__item-authors">
-      <strong>Authors:</strong>
       {% assign authors_highlighted = post.authors
         | replace: "Minh Anh Hoang", "<strong><em>Minh Anh Hoang</em></strong>"
         | replace: "Minh Hoang", "<strong><em>Minh Hoang</em></strong>"
