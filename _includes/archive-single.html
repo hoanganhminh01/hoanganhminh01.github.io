@@ -12,8 +12,10 @@
 {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item"> <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
+```
 {% if include.type == "grid" and teaser %}
   <div class="archive__item-teaser">
     <img src=
@@ -53,13 +55,6 @@
     {{ post.date | default: "1900-01-01" | date: "%Y" }}
   </p>
 
-  {% comment %}
-    IMPORTANT:
-    Teaching course lists are stored in the Markdown body.
-    Academic Pages exposes that content through post.excerpt.
-    Therefore, the excerpt MUST be preserved for Teaching.
-  {% endcomment %}
-
   {% if post.excerpt %}
     <div class="archive__item-excerpt" itemprop="description">
       {{ post.excerpt | markdownify }}
@@ -67,6 +62,23 @@
   {% endif %}
 
 {% elsif post.collection == 'publications' %}
+
+  {% comment %}
+    AUTHORS
+    Highlight the author's name when stored as either
+    "Minh Hoang" or "Minh Anh Hoang".
+  {% endcomment %}
+
+  {% if post.authors %}
+    <p class="archive__item-authors">
+      <strong>Authors:</strong>
+      {% assign authors_highlighted = post.authors
+        | replace: "Minh Anh Hoang", "<strong><em>Minh Anh Hoang</em></strong>"
+        | replace: "Minh Hoang", "<strong><em>Minh Hoang</em></strong>"
+      %}
+      {{ authors_highlighted }}
+    </p>
+  {% endif %}
 
   <p>
     Published in
