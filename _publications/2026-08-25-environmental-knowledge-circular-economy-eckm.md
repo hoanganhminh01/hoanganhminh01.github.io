@@ -3,7 +3,7 @@ title: "Transforming Environmental Knowledge Into Business Opportunity through C
 collection: publications
 permalink: /publications/environmental-knowledge-circular-economy-eckm/
 date: 2026-08-25
-venue: "The Proceedings of the 27th European Conference on Knowledge Management (ECKM 2026), Volume 2"
+venue: "The Proceedings of the 27th European Conference on Knowledge Management (ECKM), Volume 2"
 authors: "Jowita Trzcielinska, Minh Anh Hoang"
 doi: "10.34190/ECKM.27.2.4813"
 paperurl: "https://papers.academic-conferences.org/index.php/eckm/article/view/4813"
