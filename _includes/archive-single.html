@@ -69,7 +69,7 @@
   {% endcomment %}
 
   {% if post.authors %}
-    <p class="archive__item-authors" style="font-size: 0.9em;>
+    <p class="archive__item-authors" style="font-size: 0.9em;">
       {% assign authors_highlighted = post.authors
         | replace: "Minh Anh Hoang", "<strong><em>Minh Anh Hoang</em></strong>"
         | replace: "Minh Hoang", "<strong><em>Minh Hoang</em></strong>"
@@ -77,6 +77,7 @@
       {{ authors_highlighted }}
     </p>
   {% endif %}
+
 
   <p>
     Published in
