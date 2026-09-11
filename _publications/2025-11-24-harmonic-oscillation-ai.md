@@ -7,6 +7,8 @@ venue: "7th IEEE International Conference on Electrical, Control and Instrumenta
 authors: "Khuong Nguyen-Vinh, Minh Hoang, Radomir Gono"
 paperurl: "https://ieeexplore.ieee.org/document/11363838"
 citation: "K. Nguyen-Vinh, M. Hoang and R. Goňo, AI-Driven Methods for Eliminating Harmonic Oscillations in Inverter-Connected Systems: Review and Proposed Solution, 2025 7th International Conference on Electrical, Control and Instrumentation Engineering (ICECIE), Pattaya City, Thailand, 2025, pp. 5-13, doi: 10.1109/ICECIE66637.2025.11363838."
+doi: "10.1109/ICECIE66637.2025.11363838"
+isbn: ""
 category: conferences
 ---
 
