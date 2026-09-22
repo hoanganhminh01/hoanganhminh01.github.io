@@ -1,7 +1,7 @@
 ---
 title: "Swinburne University of Technology"
 collection: teaching
-type: "Full-time Lecturer"
+type: "Lecturer"
 permalink: /teaching/swinburne/
 date: 2024-09-05
 venue: "Ho Chi Minh City"
