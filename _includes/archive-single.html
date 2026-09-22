@@ -96,7 +96,11 @@
 
       {% if post.isbn %}
         ISBN:
-        {{ post.isbn }}
+        <a href="{{ post.paperurl }}"
+           target="_blank"
+           rel="noopener noreferrer">
+          {{ post.isbn }}
+        </a>
       {% endif %}
 
     </p>
