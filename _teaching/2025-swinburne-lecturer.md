@@ -3,7 +3,8 @@ title: "Swinburne University of Technology"
 collection: teaching
 type: "Lecturer"
 permalink: /teaching/swinburne/
-date: 2024-09-05
+date: 2026-09-05
+teaching_period: "August 2024 - Present"
 venue: "Ho Chi Minh City"
 ---
 - COS10022: Introduction to Data Science (Fall 2024, Summer 2025, Fall 2026)
