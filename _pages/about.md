@@ -11,15 +11,13 @@ redirect_from:
 My name is Minh Anh Hoang. I am currently a Ph.D. student in Electrical and Electronic Engineering at RMIT University, advised by Dr. Khuong Nguyen-Vinh. I am also a Lecturer in Computer Science and Machine Learning at Swinburne University of Technology, Ho Chi Minh City, Vietnam.
 
 My research interests include Computer Vision, Explainable AI, Medical AI, and AI applications in Renewable Energy and Sustainable Engineering. My recent work spans some areas, including:
-* Artificial Intelligence & Machine Learning
 * Computer Vision & Multimodal Learning
-* Explainable & Trustworthy AI
+* Explainable AI
 * Time-Series Forecasting & Intelligent Energy Systems
 * Renewable Energy & Sustainable Engineering
 * Generative AI, RAG & Multi-Agent Systems
 * Medical Imaging & Healthcare AI
-* AI for Education & Human-Centered Intelligent Systems
-* Agricultural & Environmental AI
+* AI for Education
 
 ## Education
 
