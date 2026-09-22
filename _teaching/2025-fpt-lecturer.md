@@ -4,6 +4,7 @@ collection: teaching
 type: "Visiting Lecturer"
 permalink: /teaching/fpt/
 date: 2025-05-05
+teaching_period: "May 2025 - September 2025"
 venue: "Ho Chi Minh City"
 ---
 - DBM302m: Data Mining (Summer 2025)
