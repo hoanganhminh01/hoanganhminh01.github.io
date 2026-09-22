@@ -1,7 +1,7 @@
 ---
 title: "Asia University"
 collection: teaching
-type: "Part-time Lecturer"
+type: "Visiting Lecturer"
 permalink: /teaching/asia/
 date: 2025-09-24
 venue: "Ho Chi Minh City"
