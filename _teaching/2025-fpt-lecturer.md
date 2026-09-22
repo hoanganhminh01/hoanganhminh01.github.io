@@ -1,7 +1,7 @@
 ---
 title: "FPT University"
 collection: teaching
-type: "Part-time Lecturer"
+type: "Visiting Lecturer"
 permalink: /teaching/fpt/
 date: 2025-05-05
 venue: "Ho Chi Minh City"
