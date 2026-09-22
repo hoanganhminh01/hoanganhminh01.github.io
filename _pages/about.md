@@ -12,15 +12,16 @@ My name is Minh Anh Hoang. I am currently a Ph.D. student in Electrical and Elec
 
 My work focuses on the intersection of Artificial Intelligence, Computer Vision, Machine Learning, Explainable AI, and sustainable engineering systems. I am particularly interested in developing intelligent systems that can transform complex data into practical insights and support real-world decision-making.
 
-My research interests include Computer Vision, Explainable AI, Machine Learning, Artificial Intelligence, and AI applications in Renewable Energy and Sustainable Engineering. My recent work spans some areas, including:
-* Computer Vision and Deep Learning
-* Explainable and Trustworthy AI
-* Machine Learning for Engineering Systems
-* AI for Renewable Energy and Sustainability
-* Intelligent Energy Forecasting
-* Anomaly Detection and Fault Diagnosis
-* Medical and Scientific Image Analysis
-* AI-assisted Decision Support Systems
+My research interests include Computer Vision, Explainable AI, Medical AI, and AI applications in Renewable Energy and Sustainable Engineering. My recent work spans some areas, including:
+* Artificial Intelligence & Machine Learning
+* Computer Vision & Multimodal Learning
+* Explainable & Trustworthy AI
+* Time-Series Forecasting & Intelligent Energy Systems
+* Renewable Energy & Sustainable Engineering
+* Generative AI, RAG & Multi-Agent Systems
+* Medical Imaging & Healthcare AI
+* AI for Education & Human-Centered Intelligent Systems
+* Agricultural & Environmental AI
 
 ## Education
 
