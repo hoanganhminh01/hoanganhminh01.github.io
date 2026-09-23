@@ -1,4 +1,4 @@
-<img width="1890" height="780" alt="image" src="https://github.com/user-attachments/assets/c9870c32-d424-4112-9117-1ffc3e725add" />---
+---
 title: "Counterfactual Explanations and Algorithmic Recourses for Machine Learning: A Review"
 collection: publications
 permalink: /publications/counterfactual-explanations-survey/
