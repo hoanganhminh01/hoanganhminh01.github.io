@@ -1,10 +1,11 @@
----
+<img width="1890" height="780" alt="image" src="https://github.com/user-attachments/assets/c9870c32-d424-4112-9117-1ffc3e725add" />---
 title: "Counterfactual Explanations and Algorithmic Recourses for Machine Learning: A Review"
 collection: publications
 permalink: /publications/counterfactual-explanations-survey/
 date: 2024-10-03
 venue: "ACM Computing Surveys"
 authors: "Sahil Verma, Varich Boonsanong, Minh Hoang, Keegan E. Hines, John P. Dickerson, Chirag Shah"
+doi: "10.1145/3677119"
 paperurl: "https://dl.acm.org/doi/10.1145/3677119"
 category: manuscripts
 ---
